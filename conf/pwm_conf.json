@@ -1,0 +1,81 @@
+{
+    "FanController_led": {
+        "duty": 0,
+        "flag": 0,
+        "timeout": 1575070475.0,
+        "channel": 9
+    },
+    "GrowLED_w1": {
+        "duty": 0,
+        "flag": 1,
+        "channel": 15,
+        "duty_old": 100
+    },
+    "GrowLED_b": {
+        "duty": 1556,
+        "flag": 1,
+        "channel": 6,
+        "duty_old": 100
+    },
+    "GrowLED_r2": {
+        "duty": 1433,
+        "flag": 1,
+        "channel": 13,
+        "duty_old": 100
+    },
+    "GrowLED_r1": {
+        "duty": 1433,
+        "flag": 1,
+        "duty_old": 100,
+        "channel": 7
+    },
+    "FanController_front": {
+        "duty": 0,
+        "flag": 0,
+        "timeout": 1575070475.0,
+        "channel": 11
+    },
+    "GrowLED_w2": {
+        "duty": 0,
+        "flag": 1,
+        "duty_old": 100,
+        "channel": 14
+    },
+    "FanController_back": {
+        "duty": 0,
+        "flag": 0,
+        "timeout": 1575070475.0,
+        "channel": 11
+    },
+    "GrowLED_fr": {
+        "duty": 0,
+        "flag": 1,
+        "duty_old": 100,
+        "channel": 12
+    },
+    "FrontLED_5": {
+        "duty": 0,
+        "flag": 0,
+        "channel": 5
+    },
+    "FrontLED_4": {
+        "duty": 0,
+        "flag": 0,
+        "channel": 4
+    },
+    "FrontLED_3": {
+        "duty": 0,
+        "flag": 0,
+        "channel": 3
+    },
+    "FrontLED_2": {
+        "duty": 0,
+        "flag": 0,
+        "channel": 2
+    },
+    "FrontLED_1": {
+        "duty": 0,
+        "flag": 0,
+        "channel": 1
+    }
+}

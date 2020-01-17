@@ -1,0 +1,57 @@
+{
+    "FanController_led": {
+        "duty": 0,
+        "flag": 1,
+        "channel": 11
+    },
+    "LedController_f": {
+        "duty": 0,
+        "flag": 1,
+        "channel": 13
+    },
+    "LedController_b": {
+        "duty": 0,
+        "flag": 1,
+        "channel": 6
+    },
+    "FanController_front": {
+        "duty": 0,
+        "flag": 1,
+        "channel": 9
+    },
+    "FanController_back": {
+        "duty": 0,
+        "flag": 1,
+        "channel": 10
+    },
+    "LedController_w": {
+        "duty": 0,
+        "flag": 1,
+        "channel": 12
+    },
+    "LedController_r": {
+        "duty": 0,
+        "flag": 1,
+        "channel": 7
+    },
+    "IndicatorPanel_2": {
+        "channel": 2,
+        "value": 800
+    },
+    "IndicatorPanel_3": {
+        "value": 800,
+        "channel": 3
+    },
+    "IndicatorPanel_1": {
+        "value": 800,
+        "channel": 1
+    },
+    "IndicatorPanel_4": {
+        "channel": 4,
+        "value": 0
+    },
+    "IndicatorPanel_5": {
+        "value": 0,
+        "channel": 5
+    }
+}

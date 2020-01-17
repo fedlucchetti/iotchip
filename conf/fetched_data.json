@@ -1,0 +1,32 @@
+{
+    "status": 200,
+    "message": "Successfully fetched command(s) from database!",
+    "errors": [],
+    "payload": {
+        "tOnMinutes": 0,
+        "moistureMin": 50,
+        "waterTemperatureMax": 25,
+        "medium": 0,
+        "tOnHours": 18,
+        "humidityMin": 40,
+        "tOffHours": 10,
+        "humidityMax": 95,
+        "waterTemperatureStatus": false,
+        "temperatureMax": 25,
+        "moistureStatus": false,
+        "waterLevelMin": 10,
+        "lights": {
+            "dim": false,
+            "dutyFarRed": 0,
+            "modeAuto": true,
+            "dutyBlue": 20,
+            "dutyWhite": 0,
+            "dutyRed": 42
+        },
+        "growthStage": 1,
+        "waterLevelStatus": false,
+        "temperatureMin": 20,
+        "tOffMinutes": 0,
+        "waterTemperatureMin": 15
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "GrowLED_w1": {
+        "duty": 0,
+        "flag": 1,
+        "duty_old": 50,
+        "channel": 15
+    },
+    "GrowLED_w2": {
+        "duty": 0,
+        "flag": 1,
+        "channel": 14,
+        "duty_old": 50
+    },
+    "GrowLED_r2": {
+        "duty": 0,
+        "flag": 1,
+        "duty_old": 2156,
+        "channel": 13
+    },
+    "GrowLED_r1": {
+        "duty": 0,
+        "flag": 1,
+        "channel": 7,
+        "duty_old": 2156
+    },
+    "GrowLED_b": {
+        "duty": 0,
+        "flag": 1,
+        "duty_old": 2247,
+        "channel": 6
+    },
+    "GrowLED_fr": {
+        "duty": 0,
+        "flag": 1,
+        "channel": 12,
+        "duty_old": 1000
+    }
+}
